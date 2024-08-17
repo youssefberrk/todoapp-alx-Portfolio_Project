@@ -19,7 +19,7 @@ To run the Todo App locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/youssefberrk/alx-portfolio_project.git]
+   git clone [https://github.com/youssefberrk/todoapp-alx-Portfolio_Project.git]
    ```
 
 2. **Install dependencies:**
